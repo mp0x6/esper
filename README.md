@@ -28,7 +28,7 @@ See [their README](https://github.com/SmingHub/Sming/blob/develop/Readme.md) for
 
 ### Clone the ESPer Repository
 ~~~~
-git clone https://git.maglab.space/esper/esper.git
+git clone https://git.maglab.space/esper/esper-maglab.git
 ~~~~
 
 ### Create a site directory
